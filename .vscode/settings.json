@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/3862d8ac-1264-44ff-a55e-ff7909c7666c/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/nhom-bao-van-phong",
+  "appService.deploySubpath": "."
+}
